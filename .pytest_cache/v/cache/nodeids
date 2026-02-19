@@ -1,0 +1,5 @@
+[
+  "tests/test_list_flatten.py::TestFlatten::test_basic",
+  "tests/test_list_flatten.py::TestFlatten::test_empty",
+  "tests/test_list_flatten.py::TestFlatten::test_type_error"
+]
